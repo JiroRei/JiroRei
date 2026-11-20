@@ -7,7 +7,7 @@
 ### System Developer(???)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,angular,gatsby,linkedin,azure,devto,openshift,unreal,rust,emacs,r" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,gatsby,linkedin,apollo,devto,openshift,unreal,rust,emacs,r" />
 </p>
 <p>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourceengine/sourceengine-original.svg" alt="Source Engine" />
@@ -15,7 +15,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" />
   <!--<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" />-->
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" alt="Maya" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apollographql/apollographql-original.svg" alt="Apollo GraphQL" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" />
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" alt="Hugo" />
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="Axios" />
